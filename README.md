@@ -1,0 +1,2 @@
+- 👋 Hi, I’m tray, the Cloudyz Moderation project manager & the lead developer of the official bot site.
+- Recently I've started a new project called "Cloudyz Support", I am still working on it & I will appreciate every support from your guys side.
