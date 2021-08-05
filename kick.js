@@ -1,3 +1,5 @@
+// emojis are custom & made by the bot owner, change the emojis to your own!
+
 const Discord = require('discord.js')
 module.exports = {
     name: 'kick',
