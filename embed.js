@@ -46,4 +46,4 @@ module.exports = {
   },
 };
 
-// a!embed <channel mention> colorInHEX|title|description
+// a!embed <channel mention> colorInHEX|title|description.
