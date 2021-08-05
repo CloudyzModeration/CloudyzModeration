@@ -1,2 +1,12 @@
-- 👋 Hi, I’m tray, the Cloudyz Moderation project manager & the lead developer of the official bot site.
-- Recently I've started a new project called "Cloudyz Support", I am still working on it & I will appreciate every support from your guys side.
+- 👋 
+
+
+- Project Management
+
+The project was founded by: //$tray.m#0001 and co-founded by: las_sammm!#1945
+
+- General Information
+
+This project was created in order to encourage many communities into fun events, such as gamenights & competitions. There are many categories in this bot, like:
+
+Moderation, Miscellaneous, Information, Fun!
